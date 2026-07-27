@@ -26,6 +26,18 @@ Start with AI as a **drafting and summarising assistant** for work you already d
 **Week 3 — Roll to the team.** Share the prompt, agree the rule: *AI drafts, humans send.*
 **Week 4 — Measure and pick the next job.** Count hours saved. Repeat with task #2.
 
+## Worked example: answering online reviews with AI
+
+Google and Facebook reviews are a writing task most owners put off — especially the bad ones. AI turns a 20-minute dread job into a 2-minute edit, and it slots straight into the *AI drafts, humans send* rule.
+
+1. **Copy the review** into your chat assistant — text only, no reviewer surname or contact details.
+2. **Use a saved prompt** like: "You reply to reviews for a family-run bakery. Tone: warm, brief, no corporate phrases. For critical reviews: thank them, acknowledge the specific problem, say what we'll do, invite them to email us — never argue, never make excuses."
+3. **Edit the draft** — add the one true detail only you know ("we've spoken to Saturday staff"). That detail is what makes it read human.
+4. **For negative reviews, wait an hour** before posting. AI removes the drafting pain but not the need for a cool head.
+5. **Reuse, don't regenerate.** After ten replies you'll have a prompt that nails your voice — save it next to your quote prompt from the 30-day plan.
+
+Why this one pays off: replies are public, so every response doubles as marketing to future customers, and prompt-drafted replies mean bad reviews actually get answered instead of ignored.
+
 ## Rules that keep you safe
 
 - **Never paste customer personal data** (names + addresses, health, finances) into consumer AI tools. Use business tiers with data controls, or anonymise first. Check your GDPR obligations.
