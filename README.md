@@ -38,6 +38,19 @@ Google and Facebook reviews are a writing task most owners put off — especiall
 
 Why this one pays off: replies are public, so every response doubles as marketing to future customers, and prompt-drafted replies mean bad reviews actually get answered instead of ignored.
 
+## Worked example: turning a voice note into a staff SOP
+
+Every small firm has jobs that live in one person's head — how to open up, how to process a return, how to close the till. Writing them down never happens because typing a procedure is slow. Talking it through takes three minutes, and AI does the typing.
+
+1. **Record the expert doing the job out loud.** Ask the person who knows it best to talk through the task as they do it, on a phone voice-memo app. Rambling is fine; that is what the AI is for. Skip anything containing customer data or passwords.
+2. **Get the text.** Most phones transcribe voice memos natively, and most chat assistants accept voice input or an audio file. Paste the raw transcript in.
+3. **Use a saved prompt** like: "Turn this transcript into a step-by-step procedure for a new member of staff at a small café. Numbered steps, one action per step, plain English. Add a 'Before you start' list and a 'Common mistakes' section. Where the speaker is unclear, write [CHECK] rather than guessing."
+4. **Walk the draft with the expert.** Read each step back to them and fix the [CHECK] items. This ten-minute review is where AI's guesses get caught — never skip it.
+5. **Test it on someone new.** Hand the SOP to a staff member who has never done the job and watch. Wherever they hesitate, the SOP is missing a step. Fix and re-save.
+6. **Store it where staff already look** — a shared drive folder, a laminated sheet by the till — and add a "last checked" date so it gets reviewed when the job changes.
+
+Why this one pays off: a written SOP means holidays, sickness and new starters stop being emergencies, and it is the raw material you will need later if you ever automate the task.
+
 ## Rules that keep you safe
 
 - **Never paste customer personal data** (names + addresses, health, finances) into consumer AI tools. Use business tiers with data controls, or anonymise first. Check your GDPR obligations.
